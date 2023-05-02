@@ -21,6 +21,11 @@ header {
     font-size: 40px;
 }
 
+header.pages {
+    background-color: #ebb7e9 ;
+    font-size: 50px;
+}
+
 figcaption{
 	font-family: Arial;
     color: black;
