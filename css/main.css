@@ -71,10 +71,20 @@ a{
   }
 
 
-  .align{
+.align{
     text-align: justify;
       width: 700px;
       padding-top: 500px;
       padding-left: 300px;
-  }
+}
 
+#OEdipe {
+	width: 280px;
+	
+}
+
+
+#Antigone {
+	width: 286px;
+
+}
