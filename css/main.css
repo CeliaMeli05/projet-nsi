@@ -89,6 +89,12 @@ p {
     text-align: justify;
 }
 
+.menu_question {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+  }
+
 section.align div a {
     width: 32%;
     display: inline-block;
@@ -157,4 +163,8 @@ table, td {
     text-align: center;
     width: 1000px;
     padding-left: 170px;
+}
+
+main {
+    margin-top: 20px;
 }
