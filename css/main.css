@@ -77,6 +77,7 @@ figcaption {
     color: black;
     font-size: 18px;
     width: 80%;
+    margin-left: 10%;
     text-align: justify;
 }
 
@@ -89,7 +90,11 @@ p {
 }
 
 section.align div a {
-    width: 33%;
+    width: 32%;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 } 
 
 .align{
