@@ -80,9 +80,9 @@ figcaption, p {
 
 .align{
     text-align: justify;
-      width: 700px;
-      padding-top: 500px;
-      padding-left: 300px;
+    width: 700px;
+    padding-top: 500px;
+    padding-left: 300px;
 }
 
 #OEdipe {
@@ -101,4 +101,28 @@ figcaption, p {
 	width: 241px;
 }
 
-
+table, td {
+    border: 2px solid black;
+    font-weight: bold;
+    margin-left: 290px;
+    text-align: center;
+  
+}
+  
+  
+#dommage {
+    width: 100px;
+}
+  
+#bien {
+    width: 150px;
+}
+  
+#parfait{
+    width: 160px;
+}
+  
+  
+#merci {
+    padding-top: 200px;
+}
