@@ -1,0 +1,65 @@
+body{
+  background-color:  #9b836c ;
+}
+
+header {
+  font-family: Trebuchet MS;
+text-align: center;
+background-color: #a833ff ;
+font-size: 40px;
+}
+
+figure {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a{
+  
+  width: 20%;
+  padding: 10px;
+  margin-left: 365px;
+}
+
+table, td {
+  border: 2px solid black;
+  font-weight: bold;
+  margin-left: 290px;
+  text-align: center;
+
+}
+
+
+#dommage {
+  width: 100px;
+}
+
+#bien {
+  width: 150px;
+}
+
+#parfait{
+  width: 160px;
+}
+
+
+#merci {
+  padding-top: 200px;
+}
+
+h2{
+font-family: Trebuchet MS;
+text-align: center;
+background-color:#a833ff;
+font-size: 50px;
+}
+
+.align{
+  text-align: center;
+    width: 1000px;
+    padding-left: 170px;
+}
+
+
+
+
