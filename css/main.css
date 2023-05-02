@@ -48,8 +48,33 @@ ol,  li, a{
     font-size: 20px;
 }
 
+a{  
+    width: 20%;
+    padding: 10px;
+    margin-left: 85px;
+  }
+
+.row{
+    float: left;
+    width: 30%;
+    padding: 10px;
+  }
+  
+  .mainside{
+    margin-left: 300px;
+  }
+  
+  figcaption, p {
+      font-family: Arial;
+  color: black;
+  font-size: 18px;
+  }
 
 
-
-
+  .align{
+    text-align: justify;
+      width: 700px;
+      padding-top: 500px;
+      padding-left: 300px;
+  }
 
