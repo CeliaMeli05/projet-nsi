@@ -68,7 +68,8 @@ a{
 }
   
 .mainside{
-    margin-left: 300px;
+    margin-left: 30%;
+    width: 40%;
 }
   
 figcaption, p {
