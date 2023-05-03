@@ -104,8 +104,14 @@ section.align div a {
     clear: left;
 }
 
+#Poseidon {
+    width: 70%;
+}
+
+
 #Aphrodite {
     border: 2px solid black;
+    width: 73%;
 }
 
 #OEdipeDieux {
